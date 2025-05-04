@@ -1,35 +1,75 @@
-# Pizza-Sales-Report
-This repository contains an interactive Power BI dashboard that analyzes over 48,000 rows of pizza sales data to generate actionable business insights. The project demonstrates data cleaning, transformation, modeling, and visualization skills using Power BI, Power Query, and DAX.
-📊 Project Overview
-Built a comprehensive sales dashboard to track key performance indicators (KPIs) such as:
-Total Revenue
-Total Orders
-Average Order Value
-Total Pizzas Sold
-Average Pizzas per Order
-Used Power Query to clean and reshape raw transactional data.
-Applied DAX functions to create calculated columns and measures for dynamic analysis.
-Implemented conditional formatting with color gradients to enhance visual storytelling.
+🍕 Power BI Project: Pizza Sales Dashboard
 
-💡 Key Insights
-Thai Chicken Pizza contributed ~5.26% to total revenue
-Classic Deluxe Pizza was the most ordered (10.78% of orders)
-Large size pizzas generated ~46% of sales
-Fridays had the highest sales volume (~16.4%)
-Brie Carre Pizza was the lowest-performing item
+This project presents an **interactive Power BI dashboard** analyzing over **48,620 pizza sales records**. It offers actionable insights into customer behavior, top-performing pizzas, sales trends, and revenue drivers — showcasing skills in **data cleaning**, **DAX**, **data modeling**, and **business intelligence visualization**.
 
-🔧 Tools & Technologies
-Power BI Desktop
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Exploratory Data Analysis (EDA)
+---
 
-📁 Files Included
-Power BI (.pbix) file
-Screenshots of the dashboards
-README with project insights and methodology
+📊 Overview
 
-🚀 Purpose
-This project is part of my data analytics portfolio to showcase expertise in business intelligence, data storytelling, and dashboard development. Ideal for roles in Data Analysis, BI Development, or Data Visualization.
+The dashboard is built to answer key business questions like:
+
+- What are the best and worst-selling pizzas?
+- Which day or month sees the most sales?
+- What’s the contribution of each pizza size and category to total revenue?
+- What are the key performance indicators (KPIs) for the business?
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Power BI Desktop**
+- **Power Query** (for data cleansing and transformation)
+- **DAX** (Data Analysis Expressions)
+- **Data Modeling** (Relationships, Hierarchies)
+- **Conditional Formatting** (Color Gradients)
+- **Exploratory Data Analysis (EDA)**
+
+---
+
+## 💡 Key Insights
+
+- **Top Revenue Generator**: Thai Chicken Pizza (~5.26% of total revenue)
+- **Most Ordered Pizza**: Classic Deluxe Pizza (~10.78% of all orders)
+- **Lowest Performer**: Brie Carre Pizza (~1.47% of revenue, 0.98% of orders)
+- **Peak Sales Day**: Friday (~16.4% of orders)
+- **Best-Selling Category**: Classic Pizzas (~30% of all pizzas sold)
+- **Top Size by Revenue**: Large Pizza (~46% of total sales)
+
+---
+
+## 📈 Dashboard Features
+
+- KPI Cards: Revenue, Orders, Avg. Order Value, Pizzas Sold
+- Dynamic filters by pizza category and date range
+- Top/Bottom 5 visual comparisons by quantity, revenue, and orders
+- Trend charts for daily and monthly sales
+- Pie charts for size and category contribution
+- Conditional formatting with color gradients for emphasis
+
+---
+
+## 📂 Repository Structure
+
+
+📊 Pizza_Sales_Dashboard.pbix # Power BI Dashboard file
+🖼️ Home_Page.png # Screenshot of the Home Page
+🖼️ Best_Least_Seller.png # Screenshot of Top/Bottom Sellers
+📄 README.md # Project documentation
+
+---
+
+## ✅ Outcomes
+
+This project reflects my ability to:
+- Design business-ready dashboards
+- Transform raw data into strategic insights
+- Communicate findings through data storytelling
+- Leverage Power BI for interactive reporting
+
+---
+
+## 📬 Contact
+
+If you'd like to connect:
+- 📧 Email: kushalpatel22900@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/kushal-patel-47a281135
